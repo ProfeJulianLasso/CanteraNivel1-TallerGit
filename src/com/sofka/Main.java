@@ -11,7 +11,7 @@ public class Main {
     private static boolean bandera = true;
     private static int opcion;
 
-    public static main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         do {
             limpiarPantalla();
             menu();
